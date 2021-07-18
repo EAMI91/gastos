@@ -1,0 +1,2 @@
+# gastos
+Analizar gastos
